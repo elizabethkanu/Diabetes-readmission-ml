@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Dataset files: do not commit raw data
+*.zip
+diabetic_data.csv
+IDS_mapping.csv
+
+# Local environment / temporary files
+.DS_Store
